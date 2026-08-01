@@ -1,0 +1,6 @@
+assets/raw/
+assets/img/hero-cover.jpg
+.DS_Store
+*.log
+node_modules/
+scratchpad/
